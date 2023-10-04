@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>News Analysis</title>
+    <!-- Include any CSS stylesheets and scripts -->
+</head>
+<body>
+    <h1>News Analysis</h1>
+    <form action="/analyze" method="POST">
+        <h2>Select Topics to Analyze:</h2>
+        <input type="checkbox" name="topics" value="country_politics">Country-Specific Politics<br>
+        <input type="checkbox" name="topics" value="world_politics">World Politics<br>
+        <input type="checkbox" name="topics" value="business_news">Business News<br>
+        <!-- Add more checkbox options for other topics -->
+
+        <input type="submit" value="Analyze">
+    </form>
+</body>
+</html>

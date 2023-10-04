@@ -1,0 +1,2 @@
+google colab : https://colab.research.google.com/drive/1lRrS66f2cdl6_QE0seFqK_Yql59unxvo?usp=sharing
+chatgpt api : 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
